@@ -1,0 +1,40 @@
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Bot Application.dll.config
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Bot Application.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Bot Application.pdb
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Autofac.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Chronic.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Microsoft.Bot.Builder.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Microsoft.Bot.Connector.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Newtonsoft.Json.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\System.Net.Http.Formatting.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\System.Web.Http.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\System.Web.Http.WebHost.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Autofac.xml
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Microsoft.Bot.Builder.xml
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Microsoft.Bot.Connector.xml
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\Newtonsoft.Json.xml
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\System.Net.Http.Formatting.xml
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\System.Web.Http.xml
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\System.Web.Http.WebHost.xml
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\obj\Release\Bot Application9.csproj.CoreCompileInputs.cache
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\obj\Release\Bot Application.dll
+C:\Users\tomrm\Source\Repos\Bot Application9\Bot Application9\obj\Release\Bot Application.pdb
