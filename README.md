@@ -2,8 +2,6 @@
 Build a Bot in a Session
 
 
-Code coming soon... :)
-
 ## Useful Links
 
  - [Bot Framework .NET Template for Visual Studio](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-quickstart "Microsoft Docs")
